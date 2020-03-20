@@ -24,7 +24,7 @@ func main() {
 	//}
 
 	dbName := "mysql"
-	dsn := "root:wxm19990516@tcp(127.0.0.1:3306)/bigdata?charset=utf8"
+	dsn := "root:wxmsummer0000@tcp(127.0.0.1:3306)/bigdata?charset=utf8"
 	maxOpen := 200
 	maxIdle := 100
 	maxLifeTime := time.Second * 1000
